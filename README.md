@@ -27,6 +27,9 @@ npm start
 4) App should open in browser 
 
 5) To run the unit tests
+
 npm test
-to test the coverage
+
+To test the coverage
+
 npm run test -- --coverage
