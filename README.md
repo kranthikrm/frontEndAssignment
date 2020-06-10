@@ -4,11 +4,11 @@ An sample application for the Backend to Frontend Javascript developer training 
 
 ## Problem Statement
 
-
+Created a simple react app to store information and also create new information with the topics covered in the training sesssion.
 
 ## This Application
 
-
+This is a test react application to store any infomration, for example store country codes, currency. We can also create our own Information
 
 ### Running the App
 
@@ -25,3 +25,8 @@ npm install
 npm start
 
 4) App should open in browser 
+
+5) To run the unit tests
+npm test
+to test the coverage
+npm run test -- --coverage

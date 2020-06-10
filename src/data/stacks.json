@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Country Abbreviations",
+    "id": 0,
+    "cards": [
+      { "id": 0, "prompt": "India", "answer": "IND" },
+      { "id": 1, "prompt": "United Kingdom", "answer": "UK" },
+      { "id": 2, "prompt": "United States Of America", "answer": "USA" },
+      { "id": 3, "prompt": "Germany", "answer": "DEU" },
+      { "id": 4, "prompt": "France", "answer": "FRA" },
+      { "id": 5, "prompt": "Russia", "answer": "RUS" },
+      { "id": 6, "prompt": "Netherlands", "answer": "NLD" },
+      { "id": 7, "prompt": "Singapore", "answer": "SGP" },
+      { "id": 8, "prompt": "Japan", "answer": "JPN" },
+      { "id": 9, "prompt": "Canada", "answer": "CA" }
+    ]
+  },
+  {
+    "title": "Country Currency",
+    "id": 1,
+    "cards": [
+      { "id": 0, "prompt": "India", "answer": "Indian Rupee" },
+      { "id": 1, "prompt": "United Kingdom", "answer": "Pound Sterling" },
+      { "id": 2, "prompt": "United States Of America", "answer": "United States Dollar" },
+      { "id": 3, "prompt": "Germany", "answer": "Euro" },
+      { "id": 4, "prompt": "France", "answer": "Euro" },
+      { "id": 5, "prompt": "Russia", "answer": "Russian Rouble" },
+      { "id": 6, "prompt": "Netherlands", "answer": "Euro" },
+      { "id": 6, "prompt": "Singapore", "answer": "Singapore Dollar" },
+      { "id": 6, "prompt": "Japan", "answer": "Japanese Yen" },
+      { "id": 6, "prompt": "Canada", "answer": "Canadian Dollar" }
+    ]
+  }
+]
