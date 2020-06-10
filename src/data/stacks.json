@@ -26,9 +26,9 @@
       { "id": 4, "prompt": "France", "answer": "Euro" },
       { "id": 5, "prompt": "Russia", "answer": "Russian Rouble" },
       { "id": 6, "prompt": "Netherlands", "answer": "Euro" },
-      { "id": 6, "prompt": "Singapore", "answer": "Singapore Dollar" },
-      { "id": 6, "prompt": "Japan", "answer": "Japanese Yen" },
-      { "id": 6, "prompt": "Canada", "answer": "Canadian Dollar" }
+      { "id": 7, "prompt": "Singapore", "answer": "Singapore Dollar" },
+      { "id": 8, "prompt": "Japan", "answer": "Japanese Yen" },
+      { "id": 9, "prompt": "Canada", "answer": "Canadian Dollar" }
     ]
   }
 ]

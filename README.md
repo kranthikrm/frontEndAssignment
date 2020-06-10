@@ -16,7 +16,7 @@ To run the app follow the following steps:
 
 1) Clone the repo
 
-2) Node Modules are updated, this can be achieved by executing following command:
+2) Navigate to the project folder and install node modules, this can be achieved by executing following command:
 
 npm install
 
@@ -29,6 +29,8 @@ npm start
 5) To run the unit tests
 
 npm test
+
+Note: If prompted to choose the run, choose to run all tests
 
 To test the coverage
 
